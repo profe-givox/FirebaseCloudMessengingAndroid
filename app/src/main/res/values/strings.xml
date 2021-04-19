@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FirebaseCloudMessengingAndroid</string>
+    <string name="msg_token_fmt">Cadenita</string>
+</resources>
